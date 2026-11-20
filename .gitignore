@@ -1,0 +1,6 @@
+hexapod_env/
+__pycache__/
+*.pyc
+tb_logs/
+checkpoints/*.zip
+!checkpoints/ppo_flat_parallel_final.zip
